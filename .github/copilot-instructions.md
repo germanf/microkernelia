@@ -47,7 +47,7 @@ Organize context and execute with consistency:
 
 ## Workspace Roles
 - Kernel: [kernel](../kernel) — entry, MMU, cooperative scheduler, serial logging.
-  - Virtio drivers: [drivers_virtio](../drivers_virtio) — vsock and fs queues, BAR mapping.
+- Virtio drivers: [drivers_virtio](../drivers_virtio) — vsock and fs queues, BAR mapping.
 - MCP core: [mcp_core](../mcp_core) — MCP tools/dispatch and JSON-RPC stubs.
 - MCP transport: [mcp_vsock_transport](../mcp_vsock_transport) — frame read/write over vsock.
 - AI runtime: [ai_runtime](../ai_runtime) — `load_model()` via fs; `infer()` over in-memory table.
