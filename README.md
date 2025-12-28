@@ -1,6 +1,6 @@
 # microkernelia
 
-[![Repo en GitHub](https://img.shields.io/badge/github-gfpw%2Fmicrokernelia-blue?logo=github)](https://github.com/gfpw/microkernelia)
+[![Repo en GitHub](https://img.shields.io/badge/github-germanf%2Fmicrokernelia-blue?logo=github)](https://github.com/germanf/microkernelia)
 
 Unikernel Rust no_std orientado a AI y servidores MCP sobre virtio-vsock.
 
@@ -84,6 +84,6 @@ cargo make build-all
 
 ---
 
-Repositorio oficial: https://github.com/gfpw/microkernelia
+Repositorio oficial: https://github.com/germanf/microkernelia
 
 > Consulta [ARCHITECTURE.md](./ARCHITECTURE.md) y [BUILD.md](./BUILD.md) para detalles técnicos y de compilación.
